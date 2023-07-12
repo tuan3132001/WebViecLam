@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wrbSZOikKIK/RQ/E1eEiSMpDepijEdQ14O58e97uMn1UnCgEScQK7ObB8v3xsnC39d3pMQbOwEyHl/NMBTthCg==",
+  "success": true,
+  "projectFilePath": "D:\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leanh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\leanh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\leanh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\leanh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
