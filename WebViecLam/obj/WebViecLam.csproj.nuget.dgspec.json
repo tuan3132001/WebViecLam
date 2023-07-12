@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WebViecLam\\WebViecLam\\WebViecLam.csproj": {}
+    "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\WebViecLam.csproj": {}
   },
   "projects": {
-    "D:\\WebViecLam\\WebViecLam\\WebViecLam.csproj": {
+    "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\WebViecLam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
+        "projectUniqueName": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
         "projectName": "WebViecLam",
-        "projectPath": "D:\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
+        "projectPath": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
         "packagesPath": "C:\\Users\\leanh\\.nuget\\packages\\",
-        "outputPath": "D:\\WebViecLam\\WebViecLam\\obj\\",
+        "outputPath": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
