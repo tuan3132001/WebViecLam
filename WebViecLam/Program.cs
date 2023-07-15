@@ -1,7 +1,20 @@
+﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using WebViecLam.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<WebViecLamContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("WebViecLamContext") ?? throw new InvalidOperationException("Connection string 'WebViecLamContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+	.AddCookie(options =>
+	{
+		options.ExpireTimeSpan = TimeSpan.FromMinutes(20);
+		options.SlidingExpiration = true;
+		options.AccessDeniedPath = "/Forbidden/";
+	});
 
 var app = builder.Build();
 
@@ -17,7 +30,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
