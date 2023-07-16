@@ -15,5 +15,9 @@ namespace WebViecLam.Data
         }
 
         public DbSet<WebViecLam.Models.User> User { get; set; } = default!;
+
+        public DbSet<WebViecLam.Models.Company>? Company { get; set; }
+
+        public DbSet<WebViecLam.Models.Job>? Job { get; set; }
     }
 }
