@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L7e+FcQDAMGJpjFs27j/KwmVJqlwZrjLt/rxMb9z3xM=",
+  "Hash": "kcyjfONyKrAoiKXjJC8j4KwdPLxx5VqNT5POhIJSQf8=",
   "Source": "WebViecLam",
   "BasePath": "_content/WebViecLam",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebViecLam.styles.css",
-      "SourceId": "WebViecLam",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/WebViecLam",
-      "RelativePath": "WebViecLam.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebViecLam.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebViecLam.bundle.scp.css",
-      "SourceId": "WebViecLam",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/WebViecLam",
-      "RelativePath": "WebViecLam.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebViecLam.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\wwwroot\\css\\.DS_Store",
       "SourceId": "WebViecLam",

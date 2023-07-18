@@ -26,8 +26,14 @@ namespace WebViecLam.Controllers
             return View(await webViecLamContext.ToListAsync());
         }
 
-        // GET: Jobs/Details/5
-        public async Task<IActionResult> Details(int? id)
+		public async Task<IActionResult> JobByCompany(int comId)
+		{
+			var webViecLamContext = _context.Job.Include(j => j.Company).Where(j => j.CompanyId == comId);
+			return View(await webViecLamContext.ToListAsync());
+		}
+
+		// GET: Jobs/Details/5
+		public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Job == null)
             {

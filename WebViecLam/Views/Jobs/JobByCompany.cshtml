@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WebViecLam.Models.Job>
+@{
+    ViewData["Title"] = "JobByCompany";
+    Layout = "~/Views/Shared/_JobList.cshtml";
+}
+
+
+<div class="row">
+	@foreach (var item in Model) {
+	<div class="col-md-4 col-xs-6">
+		<div class="product">
+			<div class="product-img">
+				<img src="../../@item.Company.CompanyImage" alt="">
+				
+			</div>
+			<div class="product-body">
+				<h3 class="product-price">Vị trí cần tuyển: <a href="#">@item.JobName</a></h3>
+					<h4 class="product-name">Số lượng tuyển: @item.JobQuantity người</h4>
+					<h4 class="product-name">Trạng thái: @item.JobStatus</h4>
+					<h4 class="product-name">Mô tả công việc: @item.JobDescription</h4>
+					<h4 class="product-name">Hạn ứng tuyển : @item.JobCreated</h4>
+				<div class="product-btns">
+					<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+					<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+					<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+				</div>
+			</div>
+			<div class="add-to-cart">
+				<button class="add-to-cart-btn"> Ứng tuyển</button>
+			</div>
+		</div>
+	</div>
+	
+
+	<div class="clearfix visible-sm visible-xs"></div>
+
+	}
+</div>
