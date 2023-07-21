@@ -43,7 +43,7 @@ namespace WebViecLam.Controllers
 				return NotFound();
 			}
 
-			List<Job> job = _context.Job.Where(j => j.JobName.Contains(searchString) || j.JobDescription.Contains(searchString)).ToList();
+			List<Job> job = _context.Job.Include(j => j.Company).Where(j => j.JobName.Contains(searchString) || j.JobDescription.Contains(searchString)).ToList();
 			return View(job);
 		}
 

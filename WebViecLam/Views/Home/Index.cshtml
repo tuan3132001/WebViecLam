@@ -13,27 +13,27 @@
 									<div class="products-slick slick-initialized slick-slider" data-nav="#slick-nav-1">
 									<div class="slick-list draggable"><div class="slick-track" >
 
-										@foreach (var item in Model) 
-										{
-										<div class="product slick-slide slick-current" tabindex="-1" style="width: 335px;" data-slick-index="0" aria-hidden="false">
-											<div class="product-img">
-											<img src="@item.Company.CompanyImage" alt="">
-												<div class="product-label">
-													<span class="new">NEW</span>
-												</div>
-											</div>
-											<div class="product-body">
-										<h4 class="product-price">Công ty @item.Company.CompanyName</h4>
-												<h3 class="product-name"><a href="#" tabindex="-1">Vị trí tuyển dụng: @item.JobName</a></h3>
-										<p class="product-category ">Số lượng tuyển: @item.JobQuantity </p>
-												
-												
-											</div>
-											<div class="add-to-cart">
-										<button class="add-to-cart-btn" tabindex="-1"><a href="~/Jobs/JobDetails?id=@item.JobId">Xem chi tiết	</a> </button>
-											</div>
+							@foreach (var item in Model)
+							{
+								<div class="product slick-slide slick-current" tabindex="-1" style="width: 335px;" data-slick-index="0" aria-hidden="false">
+									<div class="product-img">
+										<img src="@item.Company.CompanyImage" alt="">
+										<div class="product-label">
+											<span class="new">NEW</span>
 										</div>
-										}
+									</div>
+									<div class="product-body">
+										<h4 class="product-price">Công ty @item.Company.CompanyName</h4>
+										<h3 class="product-name"><a href="#" tabindex="-1">Vị trí tuyển dụng: @item.JobName</a></h3>
+										<p class="product-category ">Số lượng tuyển: @item.JobQuantity </p>
+
+
+									</div>
+									<div class="add-to-cart">
+										<button class="add-to-cart-btn" tabindex="-1"><a href="~/Jobs/JobDetails?id=@item.JobId">Xem chi tiết	</a> </button>
+									</div>
+								</div>
+							}
 										</div>
 										</div>
 										</div>
