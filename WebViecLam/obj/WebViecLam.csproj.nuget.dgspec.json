@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\WebViecLam.csproj": {}
+    "C:\\BTL\\WebViecLam\\WebViecLam\\WebViecLam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\WebViecLam.csproj": {
+    "C:\\BTL\\WebViecLam\\WebViecLam\\WebViecLam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
+        "projectUniqueName": "C:\\BTL\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
         "projectName": "WebViecLam",
-        "projectPath": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
-        "packagesPath": "C:\\Users\\leanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\obj\\",
+        "projectPath": "C:\\BTL\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\BTL\\WebViecLam\\WebViecLam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,24 +78,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.19, 6.0.19]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.19, 6.0.19]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.19, 6.0.19]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.19, 6.0.19]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -105,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
