@@ -12,8 +12,8 @@ using WebViecLam.Data;
 namespace WebViecLam.Migrations
 {
     [DbContext(typeof(WebViecLamContext))]
-    [Migration("20230716085344_jobcompany")]
-    partial class jobcompany
+    [Migration("20230723091857_Init")]
+    partial class Init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -65,7 +65,7 @@ namespace WebViecLam.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("JobId"), 1L, 1);
 
-                    b.Property<int?>("CompanyId")
+                    b.Property<int>("CompanyId")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("JobCreated")
@@ -78,6 +78,9 @@ namespace WebViecLam.Migrations
                     b.Property<string>("JobName")
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
+
+                    b.Property<int>("JobQuantity")
+                        .HasColumnType("int");
 
                     b.Property<string>("JobStatus")
                         .IsRequired()
@@ -123,7 +126,9 @@ namespace WebViecLam.Migrations
                 {
                     b.HasOne("WebViecLam.Models.Company", "Company")
                         .WithMany("Jobs")
-                        .HasForeignKey("CompanyId");
+                        .HasForeignKey("CompanyId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Company");
                 });

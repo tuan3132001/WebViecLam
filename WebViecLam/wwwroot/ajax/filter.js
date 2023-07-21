@@ -34,7 +34,7 @@
 												
 											</div>
 											<div class="add-to-cart">
-										<button class="add-to-cart-btn" tabindex="-1"><a href="~/Jobs/JobDetails?id=`+ item.jobId + `">Xem chi tiết	</a> </button>
+										<button class="add-to-cart-btn" tabindex="-1"><a href="Jobs/JobDetails?id=`+ item.jobId + `">Xem chi tiết	</a> </button>
 											</div>
 										</div>`;
                 resultsDiv.append(html);

@@ -48,7 +48,6 @@ namespace WebViecLam.Controllers
 		}
 
 
-
 		public async Task<IActionResult> JobDetails(int? id)
 		{
 			if (id == null || _context.Job == null)
@@ -182,8 +181,8 @@ namespace WebViecLam.Controllers
         }
 
         // POST: Jobs/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
+        [HttpPost/*, ActionName("Delete")*/]
+        //[ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             if (_context.Job == null)
@@ -197,7 +196,8 @@ namespace WebViecLam.Controllers
             }
             
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            //return RedirectToAction(nameof(Index));
+            return Json(job);
         }
 
         private bool JobExists(int id)

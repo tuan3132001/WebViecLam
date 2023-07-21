@@ -5,6 +5,7 @@
     Layout = "~/Views/Shared/_HomePage.cshtml";
 }
 
+
 					<div class="col-md-12">
 						<div class="row">
 							<div class="products-tabs">
@@ -12,7 +13,7 @@
 								<div id="tab1" class="tab-pane active">
 									<div class="products-slick slick-initialized slick-slider" data-nav="#slick-nav-1">
 									<div class="slick-list draggable"><div class="slick-track" id="searchResults">
-
+								
 							@foreach (var item in Model)
 							{
 								<div class="product slick-slide slick-current" tabindex="-1" style="width: 335px;" data-slick-index="0" aria-hidden="false">

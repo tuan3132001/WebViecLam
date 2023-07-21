@@ -49,10 +49,18 @@
             @Html.DisplayFor(model => model.Company.CompanyName)
         </dd>
     </dl>
-    
-    <form asp-action="Delete">
+   </div> 
+    @*<form asp-action="Delete">
         <input type="hidden" asp-for="JobId" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <input type="submit" value="Delete" class="btn btn-danger"/> |
         <a asp-action="Index">Back to List</a>
     </form>
-</div>
+</div>*@
+<input type="submit" value="Delete" class="btn btn-danger" onclick="deleteJob(@Model.JobId)" /> |
+<script src="~/ajax/deleteJob.js"></script>
+   @*  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajax-unobtrusive/3.2.6/jquery.unobtrusive-ajax.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajax-unobtrusive/3.2.6/jquery.unobtrusive-ajax.js"></script>*@
+    <!-- jQuery Plugins -->
+    
