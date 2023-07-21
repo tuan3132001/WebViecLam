@@ -517,6 +517,26 @@
       "PackagePath": "staticwebassets\\images\\search_bg.png"
     },
     {
+      "Id": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\wwwroot\\img\\company1.jpg",
+      "PackagePath": "staticwebassets\\img\\company1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\wwwroot\\img\\company2.jpg",
+      "PackagePath": "staticwebassets\\img\\company2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\wwwroot\\img\\company3.jpg",
+      "PackagePath": "staticwebassets\\img\\company3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\wwwroot\\img\\company4.jpg",
+      "PackagePath": "staticwebassets\\img\\company4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\wwwroot\\img\\company5.jpg",
+      "PackagePath": "staticwebassets\\img\\company5.jpg"
+    },
+    {
       "Id": "C:\\Users\\leanh\\Desktop\\WebViecLam\\WebViecLam\\wwwroot\\img\\hotdeal.png",
       "PackagePath": "staticwebassets\\img\\hotdeal.png"
     },

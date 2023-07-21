@@ -5,56 +5,42 @@
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
-<h1>Index</h1>
+<h1>Manage Company</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.CompanyName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CompanyDescription)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.PhoneNumber)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Email)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CompanyImage)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.CompanyName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CompanyDescription)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.PhoneNumber)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Email)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CompanyImage)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.CompanyId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.CompanyId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.CompanyId">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+
+
+<div class="w3-container">
+    <table class="w3-table-all w3-hoverable">
+        <thead>
+            <tr class="w3-light-grey">
+                <th> @Html.DisplayNameFor(model => model.CompanyName)</th>
+                <th> @Html.DisplayNameFor(model => model.CompanyDescription)</th>
+                <th> @Html.DisplayNameFor(model => model.PhoneNumber)</th>
+                <th> @Html.DisplayNameFor(model => model.Email)</th>
+                <th> @Html.DisplayNameFor(model => model.CompanyImage)</th>
+
+                <th></th>
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>  @Html.DisplayFor(modelItem => item.CompanyName)</td>
+                <td>  @Html.DisplayFor(modelItem => item.CompanyDescription)</td>
+                <td>  @Html.DisplayFor(modelItem => item.PhoneNumber)</td>
+                <td>  @Html.DisplayFor(modelItem => item.Email)</td>
+                <td>  @Html.DisplayFor(modelItem => item.CompanyImage)</td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CompanyId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.CompanyId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CompanyId">Delete</a>
+                </td>
+            </tr>
+
+        }
+    </table>
+</div>

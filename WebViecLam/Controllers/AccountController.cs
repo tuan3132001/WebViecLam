@@ -53,7 +53,7 @@ namespace WebViecLam.Controllers
 					CookieAuthenticationDefaults.AuthenticationScheme,
 					new ClaimsPrincipal(claimsIdentity),
 					authProperties);
-				return RedirectToAction("Index","Account");
+				return RedirectToAction("Index","Home");
 			}
 			return View();
 		}

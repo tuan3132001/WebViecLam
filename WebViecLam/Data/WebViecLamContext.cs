@@ -19,5 +19,6 @@ namespace WebViecLam.Data
         public DbSet<WebViecLam.Models.Company>? Company { get; set; }
 
         public DbSet<WebViecLam.Models.Job>? Job { get; set; }
-    }
+		public object Jobs { get; internal set; }
+	}
 }

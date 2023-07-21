@@ -5,7 +5,7 @@
     Layout = "~/Views/Shared/_HomePage.cshtml";
 }
 
-<div class="col-md-12">
+					<div class="col-md-12">
 						<div class="row">
 							<div class="products-tabs">
 								<!-- tab -->
@@ -13,7 +13,8 @@
 									<div class="products-slick slick-initialized slick-slider" data-nav="#slick-nav-1">
 									<div class="slick-list draggable"><div class="slick-track" >
 
-										@foreach (var item in Model) {
+										@foreach (var item in Model) 
+										{
 										<div class="product slick-slide slick-current" tabindex="-1" style="width: 335px;" data-slick-index="0" aria-hidden="false">
 											<div class="product-img">
 											<img src="@item.Company.CompanyImage" alt="">
@@ -22,18 +23,14 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">@item.Company.CompanyName</p>
-												<h3 class="product-name"><a href="#" tabindex="-1">@item.JobName</a></h3>
-												<h4 class="product-price">@item.JobQuantity ></h4>
+										<h4 class="product-price">Công ty @item.Company.CompanyName</h4>
+												<h3 class="product-name"><a href="#" tabindex="-1">Vị trí tuyển dụng: @item.JobName</a></h3>
+										<p class="product-category ">Số lượng tuyển: @item.JobQuantity </p>
 												
-												<div class="product-btns">
-													<button class="add-to-wishlist" tabindex="-1"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare" tabindex="-1"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view" tabindex="-1"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
-												<button class="add-to-cart-btn" tabindex="-1"><i class="fa fa-shopping-cart"></i>Xem chi tiết </button>
+										<button class="add-to-cart-btn" tabindex="-1"><a href="~/Jobs/JobDetails?id=@item.JobId">Xem chi tiết	</a> </button>
 											</div>
 										</div>
 										}
@@ -46,5 +43,3 @@
 							</div>
 						</div>
 					</div>
-
-</div>

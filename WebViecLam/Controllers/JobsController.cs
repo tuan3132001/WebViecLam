@@ -5,7 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Hosting;
 using WebViecLam.Data;
+using WebViecLam.Migrations;
 using WebViecLam.Models;
 
 namespace WebViecLam.Controllers
@@ -32,6 +34,38 @@ namespace WebViecLam.Controllers
 			return View(await webViecLamContext.ToListAsync());
 		}
 
+        //Search
+
+		public async Task<IActionResult> Search(string searchString)
+		{
+			if (searchString == null || _context.Job == null)
+			{
+				return NotFound();
+			}
+
+			List<Job> job = _context.Job.Where(j => j.JobName.Contains(searchString) || j.JobDescription.Contains(searchString)).ToList();
+			return View(job);
+		}
+
+
+
+		public async Task<IActionResult> JobDetails(int? id)
+		{
+			if (id == null || _context.Job == null)
+			{
+				return NotFound();
+			}
+
+			var job = await _context.Job
+				.Include(j => j.Company)
+				.FirstOrDefaultAsync(m => m.JobId == id);
+			if (job == null)
+			{
+				return NotFound();
+			}
+
+			return View(job);
+		}
 		// GET: Jobs/Details/5
 		public async Task<IActionResult> Details(int? id)
         {
