@@ -15,7 +15,7 @@
 		
 				@foreach (var item in Model) 
 			{
-				<li><a href="/Jobs/JobByCompany?comId=@item.CompanyId">@item.CompanyName</a></li>
+					<li><a href="#" onclick="filterCompany(@item.CompanyId)">@item.CompanyName</a></li>
 			}
 			</ul>
 			<!-- /NAV -->

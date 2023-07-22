@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\ajax\\filter.js",
+      "PackagePath": "staticwebassets\\ajax\\filter.js"
+    },
+    {
       "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\ajax\\search.js",
       "PackagePath": "staticwebassets\\ajax\\search.js"
     },

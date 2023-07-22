@@ -34,6 +34,12 @@ namespace WebViecLam.Controllers
 			var job = _context.Job.Include(j => j.Company).Where(j => j.JobName.Contains(searchString) || j.JobDescription.Contains(searchString)).ToList();
 			return Json(job);
 		}
+		[HttpPost]
+		public async Task<IActionResult> Filter(int filterString)
+		{
+			var jobf = _context.Job.Include(j => j.Company).Where(j => j.CompanyId.Equals(filterString)).ToList();
+			return Json(jobf);
+		}
 
 	}
 }

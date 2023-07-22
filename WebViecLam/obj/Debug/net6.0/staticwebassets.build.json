@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+/8v/bOmJ/gyta6d/WsloHgzFA6CfdXkJVkLGe0BeWY=",
+  "Hash": "pOGbR8IjOFCLz0rkU/pM55mjDehSvHTdapPT00IWYUM=",
   "Source": "WebViecLam",
   "BasePath": "_content/WebViecLam",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\WebViecLam\\WebViecLam\\wwwroot\\ajax\\filter.js",
+      "SourceId": "WebViecLam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\WebViecLam\\WebViecLam\\wwwroot\\",
+      "BasePath": "_content/WebViecLam",
+      "RelativePath": "ajax/filter.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ajax\\filter.js"
+    },
     {
       "Identity": "C:\\WebViecLam\\WebViecLam\\wwwroot\\ajax\\search.js",
       "SourceId": "WebViecLam",
