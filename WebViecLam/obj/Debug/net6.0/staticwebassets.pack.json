@@ -1,1023 +1,1023 @@
 {
   "Files": [
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\ajax\\search.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\ajax\\search.js",
       "PackagePath": "staticwebassets\\ajax\\search.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\.DS_Store",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\.DS_Store",
       "PackagePath": "staticwebassets\\css\\.DS_Store"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\animate.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\css\\animate.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-grid.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-reboot.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\default-skin.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\default-skin.css",
       "PackagePath": "staticwebassets\\css\\default-skin.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\icomoon.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\icomoon.css",
       "PackagePath": "staticwebassets\\css\\icomoon.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\jquery-ui.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\jquery-ui.css",
       "PackagePath": "staticwebassets\\css\\jquery-ui.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\jquery.fancybox.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\jquery.fancybox.min.css",
       "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
       "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\main.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\meanmenu.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\meanmenu.css",
       "PackagePath": "staticwebassets\\css\\meanmenu.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\nice-select.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\normalize.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\normalize.css",
       "PackagePath": "staticwebassets\\css\\normalize.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\nouislider.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\nouislider.min.css",
       "PackagePath": "staticwebassets\\css\\nouislider.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\owl.carousel.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\responsive.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\site.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\slick-theme.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\slick-theme.css",
       "PackagePath": "staticwebassets\\css\\slick-theme.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\slick.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\slick.css",
       "PackagePath": "staticwebassets\\css\\slick.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\style.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\css\\util.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\css\\util.css",
       "PackagePath": "staticwebassets\\css\\util.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\favicon.ico",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\FontAwesome.otf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\animated.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\core.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\icons.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\larger.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\list.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\path.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\variables.less"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Black.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Black.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Bold.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Bold.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Italic.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Italic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Light.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Light.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Medium.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Medium.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Regular.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-Thin.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Thin.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\OFL.txt",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\montserrat\\OFL.txt",
       "PackagePath": "staticwebassets\\fonts\\montserrat\\OFL.txt"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Black.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BlackItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Bold.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BoldItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBold.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLight.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Italic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Light.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-LightItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Medium.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-MediumItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Regular.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBold.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Thin.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ThinItalic.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\slick.eot",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\slick.eot",
       "PackagePath": "staticwebassets\\fonts\\slick.eot"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\slick.svg",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\slick.svg",
       "PackagePath": "staticwebassets\\fonts\\slick.svg"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\slick.ttf",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\slick.ttf",
       "PackagePath": "staticwebassets\\fonts\\slick.ttf"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\slick.woff",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\fonts\\slick.woff",
       "PackagePath": "staticwebassets\\fonts\\slick.woff"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\Untitled-13.psd",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\Untitled-13.psd",
       "PackagePath": "staticwebassets\\images\\Untitled-13.psd"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\Untitled-2.psd",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\Untitled-2.psd",
       "PackagePath": "staticwebassets\\images\\Untitled-2.psd"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\banner-bg.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\banner-bg.png",
       "PackagePath": "staticwebassets\\images\\banner-bg.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\icons\\favicon.ico",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\icons\\favicon.ico",
       "PackagePath": "staticwebassets\\images\\icons\\favicon.ico"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\img-01.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\img-01.png",
       "PackagePath": "staticwebassets\\images\\img-01.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\img-1.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\img-1.png",
       "PackagePath": "staticwebassets\\images\\img-1.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\img-2.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\img-2.png",
       "PackagePath": "staticwebassets\\images\\img-2.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\img-3.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\img-3.png",
       "PackagePath": "staticwebassets\\images\\img-3.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\img-4.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\img-4.png",
       "PackagePath": "staticwebassets\\images\\img-4.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\logo-2.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\logo-2.png",
       "PackagePath": "staticwebassets\\images\\logo-2.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\logo.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\images\\search_bg.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\images\\search_bg.png",
       "PackagePath": "staticwebassets\\images\\search_bg.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\company1.jpg",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\company1.jpg",
       "PackagePath": "staticwebassets\\img\\company1.jpg"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\company2.jpg",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\company2.jpg",
       "PackagePath": "staticwebassets\\img\\company2.jpg"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\company3.jpg",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\company3.jpg",
       "PackagePath": "staticwebassets\\img\\company3.jpg"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\company4.jpg",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\company4.jpg",
       "PackagePath": "staticwebassets\\img\\company4.jpg"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\company5.jpg",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\company5.jpg",
       "PackagePath": "staticwebassets\\img\\company5.jpg"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\hotdeal.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\hotdeal.png",
       "PackagePath": "staticwebassets\\img\\hotdeal.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\logo.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\product01.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\product01.png",
       "PackagePath": "staticwebassets\\img\\product01.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\product02.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\product02.png",
       "PackagePath": "staticwebassets\\img\\product02.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\product03.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\product03.png",
       "PackagePath": "staticwebassets\\img\\product03.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\product04.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\product04.png",
       "PackagePath": "staticwebassets\\img\\product04.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\product05.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\product05.png",
       "PackagePath": "staticwebassets\\img\\product05.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\product06.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\product06.png",
       "PackagePath": "staticwebassets\\img\\product06.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\product07.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\product07.png",
       "PackagePath": "staticwebassets\\img\\product07.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\product08.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\product08.png",
       "PackagePath": "staticwebassets\\img\\product08.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\product09.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\product09.png",
       "PackagePath": "staticwebassets\\img\\product09.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\shop01.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\shop01.png",
       "PackagePath": "staticwebassets\\img\\shop01.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\shop02.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\shop02.png",
       "PackagePath": "staticwebassets\\img\\shop02.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\img\\shop03.png",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\img\\shop03.png",
       "PackagePath": "staticwebassets\\img\\shop03.png"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\.DS_Store",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\.DS_Store",
       "PackagePath": "staticwebassets\\js\\.DS_Store"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.bundle.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.js.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.min.js.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\custom.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\jquery-3.0.0.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\jquery.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\jquery.validate.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\jquery.validate.js",
       "PackagePath": "staticwebassets\\js\\jquery.validate.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\jquery.zoom.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\jquery.zoom.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.zoom.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\main.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\modernizer.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\modernizer.js",
       "PackagePath": "staticwebassets\\js\\modernizer.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\nouislider.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\nouislider.min.js",
       "PackagePath": "staticwebassets\\js\\nouislider.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\plugin.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\plugin.js",
       "PackagePath": "staticwebassets\\js\\plugin.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\popper.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\site.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\slick.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\js\\slider-setting.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\js\\slider-setting.js",
       "PackagePath": "staticwebassets\\js\\slider-setting.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\animate\\animate.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\animate\\animate.css",
       "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\tooltip.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
       "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
       "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
       "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-3.2.1.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\select2\\select2.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\select2\\select2.css",
       "PackagePath": "staticwebassets\\vendor\\select2\\select2.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\select2\\select2.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\select2\\select2.js",
       "PackagePath": "staticwebassets\\vendor\\select2\\select2.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\select2\\select2.min.css",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\select2\\select2.min.css",
       "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.css"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\select2\\select2.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\select2\\select2.min.js",
       "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.js"
     },
     {
-      "Id": "C:\\BTL\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\tilt\\tilt.jquery.min.js",
+      "Id": "C:\\WebViecLam\\WebViecLam\\wwwroot\\vendor\\tilt\\tilt.jquery.min.js",
       "PackagePath": "staticwebassets\\vendor\\tilt\\tilt.jquery.min.js"
     },
     {

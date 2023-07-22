@@ -10802,11 +10802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BTL\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
+      "projectUniqueName": "C:\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
       "projectName": "WebViecLam",
-      "projectPath": "C:\\BTL\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
+      "projectPath": "C:\\WebViecLam\\WebViecLam\\WebViecLam.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\BTL\\WebViecLam\\WebViecLam\\obj\\",
+      "outputPath": "C:\\WebViecLam\\WebViecLam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
